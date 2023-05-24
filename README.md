@@ -37,4 +37,5 @@ Hayvan hayvan2 = new Kopek("Hiper");         System.out.println(hayvan2.konus())
 Hayvan hayvan3 = new At("Hiper");         System.out.println(hayvan3.konus());
 
      }
+     
 }
